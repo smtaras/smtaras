@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Привіт! Я Тарас Смакоуз
 
-<!--
-**smtaras/smtaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент спеціальності **"Інженерія програмного забезпечення"**  
+💻 Цікавлюсь **ІТ-сферою**, **базами даних** та **аналітикою**
 
-Here are some ideas to get you started:
+### 💡 Навички
+- Мови програмування: **C++, Python**
+- Технології: GitHub, бази даних, алгоритми
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Напрями, які мене цікавлять
+- Розробка програмного забезпечення
+- Аналітика даних та автоматизація
+- Робота з базами даних
+
+### 📫 Контакти
+- Email: smakouztaras123@gmail.com  
+- Університетська пошта: taras_smakouz1403@tntu.edu.ua
